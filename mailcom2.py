@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from selenium import webdriver
-import sqlite3,time,sys,antigate,imaplib,os,random
-from PIL import Image
+import sqlite3,time,sys,imaplib,os,random
+#from PIL import Image
 from faker import Factory
 #from vpn_link import vpngate, geoip
 
